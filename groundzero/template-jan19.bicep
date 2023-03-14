@@ -1,7 +1,7 @@
 targetScope = 'subscription'
 
 @description('Provide a Resource Group Name. Example: rg-abc-lz-01')
-param rgName string = 'rg-opm-lz-01'
+param rgName string = 'rg-abc-lz-01'
 @description('Provide a default Location. Example: eastus2')
 param defLocation string = 'eastus2'
 param defLocation2 string = 'centralus'
